@@ -1,0 +1,12 @@
+.st-emotion-cache-10a9r3w {
+    height: 7.5rem;
+    margin: 0.25rem 0.5rem 0.25rem 26px;
+    z-index: 999990;
+    object-fit: contain;
+    max-width: calc(244px - 5.75rem);
+}
+
+[data-testid="stDataFrame"] table {
+    margin: auto; /* Center the table on the page */
+    text-align: center; /* Center text in table cells */
+}
